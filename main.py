@@ -97,5 +97,5 @@ class Example(wx.Frame):
         return cmd_txt
 
 ex = wx.App()
-Example(None, 'CheckBox')
+Example(None, 'SQL Injection toolkit')
 ex.MainLoop()
